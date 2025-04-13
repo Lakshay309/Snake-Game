@@ -16,11 +16,7 @@ snake_game/
 └── README.md           # Project documentation (this file)
 ##  🚀 How to Run
 Clone the repository
-
-bash
-Copy
-Edit
-git clone https://github.com/yourusername/snake_game.git
+git clone [https://github.com/yourusername/snake_game.git](https://github.com/Lakshay309/Snake-Game)
 cd snake_game
 Ensure Python 3.7+ is installed
 
