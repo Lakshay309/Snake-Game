@@ -1,13 +1,8 @@
 ## 🐍 Snake Game
 A classic Snake Game built using Python's Turtle Graphics Library. Control the snake, eat the food, and grow your score while avoiding collisions with walls and your own tail!
 
-## 📸 Demo
-Add a screenshot or GIF of your game here if you'd like.
 
 ## 📁 Project Structure
-bash
-Copy
-Edit
 snake_game/
 ├── main.py             # Main game loop and screen setup
 ├── snake.py            # Snake class and movement logic
